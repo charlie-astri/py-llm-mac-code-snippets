@@ -1,3 +1,4 @@
+#! pip install python-dotenv
 # code snippet of retrieve key from local environment variables
 import os
 from dotenv import (load_dotenv, find_dotenv) 
